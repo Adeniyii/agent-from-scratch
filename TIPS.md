@@ -1,0 +1,4 @@
+- Don't write prompts, have an AI write them for you — they are very good at it.
+- Take advantage of system prompts to guide the AI. This is also crucial and can convert your results from garbage to excellent.
+- Figuring out how to do RAG correctly is a multi-billion dollar problem. No one does it right, and there are white papers coming out literally every day trying to solve this problem. — but why is it hard? RAG As A Service 🤔
+- What is the best way to manage context limits? should older tokens be evicted? or maybe generate summaries from older tokens while supplying the new message?
